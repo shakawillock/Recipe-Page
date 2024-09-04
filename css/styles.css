@@ -14,6 +14,9 @@ body {
 img {
   width: 600px;
   margin: 0 auto;
+}
+
+.rounded-edge {
   border-radius: 8px;
 }
 
@@ -21,7 +24,6 @@ img {
   background-color: hsl(0, 0%, 100%);
   padding: 25px;
   max-width: 650px;
-  border-radius: 8px;
   margin: 0 auto;
 }
 
@@ -42,7 +44,6 @@ img {
 .header .wrapper {
   background-color:  hsl(330, 100%, 98%);
   padding: 10px;
-  border-radius: 8px;
 }
 
 .prep-list-time {
